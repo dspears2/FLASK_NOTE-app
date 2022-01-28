@@ -1,0 +1,7 @@
+{
+    "python.pythonPath": "/Users/SmoothB/.pyenv/shims/python",
+    "git.ignoreLimitWarning": true,
+    "python.analysis.extraPaths": [
+        "./web"
+    ]
+}
